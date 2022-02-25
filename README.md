@@ -14,3 +14,4 @@ https://eggplaan.github.io/run-buddy/
 Made with ❤️ by William Xing
 
 ### ©️2019 Run Buddy, Inc
+    
