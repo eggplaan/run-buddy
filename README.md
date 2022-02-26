@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -13,5 +13,4 @@ https://eggplaan.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by William Xing
 
-### ©️2019 Run Buddy, Inc
-    
+### ©️2019 Run Buddy, Inc 
